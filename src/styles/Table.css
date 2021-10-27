@@ -1,0 +1,28 @@
+.table__header{
+    color: #fff;
+}
+
+.ReactTable .rt-thead.-header {
+    border-bottom: 2px solid black;
+    background-color: #303030;
+    box-shadow: none;
+    text-align: start;
+    padding: 8px;
+  }
+
+  .ReactTable .rt-thead .rt-tr {
+    text-align:left;
+  }
+
+  .ReactTable .rt-tbody .rt-td {
+    background-color: #1b1b1b;
+    border: 1px solid #464545;
+    padding: 8px;
+  }
+
+  .pagination-bottom {
+    background-color: #00d8a1;
+    color:white;
+  }
+
+  
