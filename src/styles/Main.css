@@ -17,3 +17,17 @@
   width: 80%;
   margin: 0 auto;
 }
+
+.search__container{
+  display: flex;
+  justify-content: center;
+}
+.search__container{
+  display: flex;
+  justify-content: center;
+}
+
+
+.reset__button{
+  margin-left: 1.5rem;
+}
